@@ -6,14 +6,16 @@
       "safeTitle": "did-you-know-that-here-is-more-trees-on-earth-than-stars-in-the-milky-way",
       "url": "https://www.snopes.com/fact-check/trees-stars-milky-way/",
       "authorId": 3,
-      "createdAt": 1550242800
+      "createdAt": 1550242800,
+      "commentsCount": 2
     },
     {
       "id": 2,
       "title": "What did you think about Battle Angel Alita?",
       "safeTitle": "what-did-you-think-about-battle-angel-alita",
       "authorId": 1,
-      "createdAt": 1549878268
+      "createdAt": 1549878268,
+      "commentsCount": 1
     },
     {
       "id": 3,
@@ -21,7 +23,8 @@
       "safeTitle": "how-to-implement-dijkstras-algorithm-in-javascript",
       "url": "https://hackernoon.com/how-to-implement-dijkstras-algorithm-in-javascript-abdfd1702d04",
       "authorId": 2,
-      "createdAt": 1549889892
+      "createdAt": 1549889892,
+      "commentsCount": 1
     }
   ],
   "comments": [
