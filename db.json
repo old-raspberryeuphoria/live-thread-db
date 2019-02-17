@@ -4,40 +4,61 @@
       "id": 1,
       "title": "Did you know that there is more trees on Earth than stars in the milky way?",
       "safeTitle": "did-you-know-that-here-is-more-trees-on-earth-than-stars-in-the-milky-way",
-      "url": "https://www.snopes.com/fact-check/trees-stars-milky-way/"
+      "url": "https://www.snopes.com/fact-check/trees-stars-milky-way/",
+      "authorId": 3
     },
     {
       "id": 2,
       "title": "What did you think about Battle Angel Alita?",
-      "safeTitle": "what-did-you-think-about-battle-angel-alita"
+      "safeTitle": "what-did-you-think-about-battle-angel-alita",
+      "authorId": 1
     },
     {
       "id": 3,
       "title": "How to implement Dijkstra’s Algorithm in JavaScript",
       "safeTitle": "how-to-implement-dijkstras-algorithm-in-javascript",
-      "url": "https://hackernoon.com/how-to-implement-dijkstras-algorithm-in-javascript-abdfd1702d04"
+      "url": "https://hackernoon.com/how-to-implement-dijkstras-algorithm-in-javascript-abdfd1702d04",
+      "authorId": 2
     }
   ],
   "comments": [
     {
       "id": 1,
       "body": "No way!",
-      "postId": 1
+      "postId": 1,
+      "authorId": 2
     },
     {
       "id": 2,
       "body": "Duh. I knew it.",
-      "postId": 1
+      "postId": 1,
+      "authorId": 2
     },
     {
       "id": 3,
       "body": "The manga was better but it's the first hollywood adaptation I liked.",
-      "postId": 2
+      "postId": 2,
+      "authorId": 2
     },
     {
       "id": 4,
       "body": "Thanks, great share.",
-      "postId": 3
+      "postId": 3,
+      "authorId": 1
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "2b"
+    },
+    {
+      "id": 2,
+      "name": "john_titor"
+    },
+    {
+      "id": 3,
+      "name": "mordin"
     }
   ]
 }
