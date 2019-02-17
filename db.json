@@ -2,8 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "title": "Did you know that there is more trees on Earth than stars in the milky way?",
-      "safeTitle": "did-you-know-that-here-is-more-trees-on-earth-than-stars-in-the-milky-way",
+      "title": "Did you knew that there are more trees on Earth than stars in the milky way?",
       "url": "https://www.snopes.com/fact-check/trees-stars-milky-way/",
       "authorId": 3,
       "createdAt": 1550242800,
@@ -12,7 +11,6 @@
     {
       "id": 2,
       "title": "What did you think about Battle Angel Alita?",
-      "safeTitle": "what-did-you-think-about-battle-angel-alita",
       "authorId": 1,
       "createdAt": 1549878268,
       "body": "I just saw the movie yesterday. I was surprised at how good it was. Thoughts?",
@@ -21,11 +19,18 @@
     {
       "id": 3,
       "title": "How to implement Dijkstra’s Algorithm in JavaScript",
-      "safeTitle": "how-to-implement-dijkstras-algorithm-in-javascript",
       "url": "https://hackernoon.com/how-to-implement-dijkstras-algorithm-in-javascript-abdfd1702d04",
       "authorId": 2,
       "createdAt": 1549889892,
       "commentsCount": 1
+    },
+    {
+      "id": 4,
+      "title": "Death by black hole is called spaghettification. The tidal forces inside a black hole are so strong that they stretch your body into a long thin noodle of your composite atoms as you descend.",
+      "url": "https://www.inverse.com/article/42955-what-is-black-hole-spaghettification-science-explains",
+      "authorId": 2,
+      "createdAt": 1549889192,
+      "commentsCount": 0
     }
   ],
   "comments": [
@@ -45,7 +50,7 @@
     },
     {
       "id": 3,
-      "body": "The manga was better but it's the first hollywood adaptation I liked.",
+      "body": "The manga was better, but I must admit I really liked this adaptation.",
       "postId": 2,
       "authorId": 2,
       "createdAt": 1549993466
