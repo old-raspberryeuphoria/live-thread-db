@@ -1,11 +1,43 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {
+      "id": 1,
+      "title": "Did you know that there is more trees on Earth than stars in the milky way?",
+      "safeTitle": "did-you-know-that-here-is-more-trees-on-earth-than-stars-in-the-milky-way",
+      "url": "https://www.snopes.com/fact-check/trees-stars-milky-way/"
+    },
+    {
+      "id": 2,
+      "title": "What did you think about Battle Angel Alita?",
+      "safeTitle": "what-did-you-think-about-battle-angel-alita"
+    },
+    {
+      "id": 3,
+      "title": "How to implement Dijkstra’s Algorithm in JavaScript",
+      "safeTitle": "how-to-implement-dijkstras-algorithm-in-javascript",
+      "url": "https://hackernoon.com/how-to-implement-dijkstras-algorithm-in-javascript-abdfd1702d04"
+    }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {
+      "id": 1,
+      "body": "No way!",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "Duh. I knew it.",
+      "postId": 1
+    },
+    {
+      "id": 3,
+      "body": "The manga was better but it's the first hollywood adaptation I liked.",
+      "postId": 2
+    },
+    {
+      "id": 4,
+      "body": "Thanks, great share.",
+      "postId": 3
+    }
   ]
 }
